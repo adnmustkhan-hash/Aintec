@@ -1,3 +1,3 @@
 # Aintec
-this is my first repository Project
-Adnan Khan
+This is my first repository Project.
+Author-Adnan Khan
