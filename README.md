@@ -1,3 +1,3 @@
 # Aintec
-this is my first repository Priject
+this is my first repository Project
 Adnan Khan
